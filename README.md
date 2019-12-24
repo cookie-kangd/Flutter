@@ -6,11 +6,11 @@
 3.ListView  
 4.GridView  
 布局：  
-1.Row
-2.Column
-3.Stack
-4.Positioned
-5.Card
+1.Row  
+2.Column  
+3.Stack  
+4.Positioned  
+5.Card  
 导航：  
 1.Navigator(父向子传参)  
 2.Navigator(子向父传参)  
