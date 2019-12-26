@@ -20,9 +20,9 @@ HTTP：
 ![pic1](./firstflutterappImg/2.png)
 ![pic1](./firstflutterappImg/3.png)  
 # Day2 仿写之前的RN项目笑云app
-已经上传打包后的apk版本
-测试账号：ceshi123
-测试密码：admin123
+已经上传打包后的apk版本  
+测试账号：ceshi123  
+测试密码：admin123  
 按照之前react native的思路用flutter仿写了一遍app，基本上还原原来的东西，由于flutter社区目前还在高速发展中，有些东西还没有RN那么完善，该项目拥有广告页，登录页面，注册页面，底部导航栏页面，新闻页面，美图页面，推荐视频页面，天气页面，我的页面，全部采用了真实API进行数据的获取和运用，包含面非常广，是学习flutter的好帮手，小伙伴们如果觉得对你有帮助的话，不妨右上角点个start噢。  
 ![pic1](./laugh_cloud_img/1.png)
 ![pic1](./laugh_cloud_img/2.png)
